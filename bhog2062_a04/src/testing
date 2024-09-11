@@ -1,0 +1,79 @@
+"""
+-------------------------------------------------------
+assignment 4  Testing
+-------------------------------------------------------
+Author:  gurshan bhogal
+ID:      169052062
+Email:   bhog2062@mylaurier.ca
+Version: 2023-28-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01 
+-------------------------------------------------------
+Enter a day number (1-7): 3
+Day 3 is Tuesday
+
+Enter a day number (1-7): 4
+Day 4 is Wednesday
+
+Enter a day number (1-7): 6
+Day 6 is Friday
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+air quality number250
+Very Unhealthy
+
+air quality number450
+Hazardous
+
+air quality number20
+Good
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter the first value: 20
+Enter the second value: 30
+Enter the third value: 40
+largest_average(20.0, 30.0, 40.0) -> 35.0
+
+Enter the first value: -50
+Enter the second value: 60
+Enter the third value: 100
+largest_average(-50.0, 60.0, 100.0) -> 80.0
+
+Enter the first value: 50
+Enter the second value: -100
+Enter the third value: -200
+largest_average(50.0, -100.0, -200.0) -> -25.0
+
+-------------------------------------------------------
+t4
+------------------------------------------------------
+rgb colour 1green
+rgb colour 2red
+yellow
+
+rgb colour 1blue
+rgb colour 2green
+aqua
+
+rgb colour 1blue
+rgb colour 2red
+fuchsia
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter an integer: 5
+hoo_rah(5) -> "Zip"
+
+Enter an integer: 100
+hoo_rah(100) -> "Hoo"
+
+Enter an integer: -50
+hoo_rah(-50) -> "Hoo"
+
+-------------------------------------------------------

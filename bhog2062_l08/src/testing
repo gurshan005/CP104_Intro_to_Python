@@ -1,0 +1,67 @@
+"""
+-------------------------------------------------------
+Lab 8  Testing
+-------------------------------------------------------
+Author:  gurshan bhogal
+ID:      169052062
+Email:   bhog2062@mylaurier.ca
+Version: 2023-10-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01 
+-------------------------------------------------------
+input the day of the week2
+1: Sunday 
+2: Monday 
+3: Tuesday 
+4: Wednesday 
+5: Thursday 
+6: Friday 
+7: Saturday 
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+the number of values to generate10
+low value range10
+high value range100
+[100, 85, 26, 14, 70, 12, 70, 66, 45, 30]
+
+the number of values to generate5
+low value range1
+high value range5
+[3, 4, 2, 1, 1]
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Enter a list of values separated by spaces: 94 96 -22 -79 -28 -26 -50 71 24 -32
+Smallest: -79.0
+Largest: 96.0
+Total: 48.0
+Average: 4.8
+
+Enter a list of values separated by spaces: 5 6  7 8 9 0 
+Smallest: 0.0
+Largest: 9.0
+Total: 35.0
+Average: 5.833333333333333
+-------------------------------------------------------
+t08
+------------------------------------------------------
+Enter a list of values separated by spaces: 94 96 -22
+search value-22
+Value -22 found at index 2
+
+Enter a list of values separated by spaces: 60
+search value10
+Value 10 not found in the list
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+ Enter a list of values separated by spaces: 94 96 -32 -19 -28 96 -22 71 24 -32
+[2, 9]
+ 
+ Enter a list of values separated by spaces: 0 1 0 1 0
+ min value found at index : [0, 2, 4]
+-------------------------------------------------------

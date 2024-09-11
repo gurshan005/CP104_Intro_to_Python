@@ -1,0 +1,97 @@
+"""
+-------------------------------------------------------
+Lab 7  Testing
+-------------------------------------------------------
+Author:  gurshan bhogal
+ID:      169052062
+Email:   bhog2062@mylaurier.ca
+Version: 2023-10-27
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01 
+-------------------------------------------------------
+Enter the maximum random value: 5
+Guess: 4
+Too high, try again.
+Guess: 3
+Congratulations - good guess!
+You made 2 guesses.
+the user guessed 2 times 
+
+Enter the maximum random value: 5
+Guess: 1
+Too low, try again.
+Guess: 2
+Too low, try again.
+Guess: 3
+Too low, try again.
+Guess: 4
+Too low, try again.
+Guess: 5
+Congratulations - good guess!
+You made 5 guesses.
+the user guessed 5 times 
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a power value: 3
+The nearest power of 2 greater than or equal to 3 is 4
+
+Enter a power value: 4
+The nearest power of 2 greater than or equal to 4 is 4
+
+Enter a power value: 248
+The nearest power of 2 greater than or equal to 248 is 256
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter a target value (int >= 0): 0
+The sum of squares closest to and greater than or equal to 0 is: 1
+
+Enter a target value (int >= 0): 9
+The sum of squares closest to and greater than or equal to 9 is: 14
+
+Enter a target value (int >= 0): 100
+The sum of squares closest to and greater than or equal to 100 is: 140
+
+-------------------------------------------------------
+t07
+------------------------------------------------------
+Welcome to the Meal Costs Calculator
+Enter the cost of breakfast for the day: $1
+Enter the cost of lunch for the day: $2
+Enter the cost of supper for the day: $3
+Do you want to enter data for another day? (yes/no): yes
+Enter the cost of breakfast for the day: $4
+Enter the cost of lunch for the day: $5
+Enter the cost of supper for the day: $6
+Do you want to enter data for another day? (yes/no): no
+
+Meal Costs Summary:
+Total breakfasts cost: $5.0
+Total lunches cost: $7.0
+Total suppers cost: $9.0
+Total cost of all meals: $21.0
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+ Employee ID: 1
+Hourly wage rate: 13
+Hours worked: 55
+Net payment for employee 1: $783.05
+
+Employee ID: 1
+Hourly wage rate: 45
+Hours worked: 50
+Net payment for employee 1: $2385.28
+
+Employee ID: 1
+Hourly wage rate: 14
+Hours worked: 20
+Net payment for employee 1: $269.85
+
+-------------------------------------------------------
