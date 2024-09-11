@@ -1,4 +1,7 @@
+copyright and thanks to david brown at WLU. 
+
 MIT License
+
 
 Copyright (c) [2024] [Gurshan Bhogal]
 
