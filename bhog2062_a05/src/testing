@@ -1,0 +1,108 @@
+"""
+-------------------------------------------------------
+assignment 5  Testing
+-------------------------------------------------------
+Author:  gurshan bhogal
+ID:      169052062
+Email:   bhog2062@mylaurier.ca
+Version: 2023-11-04
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01 
+-------------------------------------------------------
+enter a number to factorial5
+120
+
+enter a number to factorial10
+3628800
+
+enter a number to factorial0
+None
+
+-------------------------------------------------------
+t02 note (doc string documentation was not provided and i printed the table in the for loop instead of returning it)
+-------------------------------------------------------
+the amount of calories burnt in a minute 4.1
+input amoubnt of time on treadmill20
+Minutes: 5,Total Calories: 20.5
+Minutes: 10,Total Calories: 41.0
+Minutes: 15,Total Calories: 61.5
+Minutes: 20,Total Calories: 82.0
+
+the amount of calories burnt in a minute 4.1
+input amount of time on treadmill 10
+Minutes: 5,Total Calories: 20.5
+Minutes: 10,Total Calories: 41.0
+
+the amount of calories burnt in a minute 10
+input amount of time on treadmill 15
+Minutes: 5,Total Calories: 50.0
+Minutes: 10,Total Calories: 100.0
+Minutes: 15,Total Calories: 150.0
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+amount of rows4
+   #
+  # #
+ #   #
+#     #
+
+amount of rows5
+    #
+   # #
+  #   #
+ #     #
+#       #
+
+
+
+
+-------------------------------------------------------
+t4
+------------------------------------------------------
+input start number2
+input the end number4
+      2   3   4
+    -------------------------
+ 2 |   4   6   8
+ 3 |   6   9  12
+ 4 |   8  12  16
+
+input start number3
+input the end number5
+      3   4   5
+    -------------------------
+ 3 |   9  12  15
+ 4 |  12  16  20
+ 5 |  15  20  25
+
+input start number1
+input the end number6
+      1   2   3   4   5   6
+    -------------------------
+ 1 |   1   2   3   4   5   6
+ 2 |   2   4   6   8  10  12
+ 3 |   3   6   9  12  15  18
+ 4 |   4   8  12  16  20  24
+ 5 |   5  10  15  20  25  30
+ 6 |   6  12  18  24  30  36
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+input start number1
+input range increment 2
+input the number of values in the range20
+400
+
+input start number1
+input range increment 2
+input the number of values in the range10
+100
+
+
+-------------------------------------------------------

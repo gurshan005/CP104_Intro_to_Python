@@ -1,0 +1,96 @@
+"""
+-------------------------------------------------------
+assignment 6 Testing
+-------------------------------------------------------
+Author:  gurshan bhogal
+ID:      169052062
+Email:   bhog2062@mylaurier.ca
+Version: 2023-11-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01 
+-------------------------------------------------------
+Enter game result or press Enter to finish: purple
+Enter game result or press Enter to finish: yellow
+Enter game result or press Enter to finish: gold
+Enter game result or press Enter to finish: purple
+Enter game result or press Enter to finish: yellow
+Enter game result or press Enter to finish: gold
+Enter game result or press Enter to finish: purple
+Enter game result or press Enter to finish: 
+Purple wins: 3
+Gold wins: 2
+
+Enter game result or press Enter to finish: orange 
+Enter game result or press Enter to finish: yellow
+Enter game result or press Enter to finish: green
+Enter game result or press Enter to finish: blue
+Enter game result or press Enter to finish: 
+Purple wins: 0
+Gold wins: 0 
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+input a interger200
+200 is false.
+
+input a interger197
+197 is true.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+original value of the loan 750
+yearly interest rate8.5
+the monthly payment200
+Principal:   $750.00
+Interest rate: 8.50%
+Monthly payment: $200.00
+----------------------------------
+Month Interest   Payment    Balance   
+----------------------------------
+1     5.31       200.00     555.31    
+2     3.93       200.00     359.25    
+3     2.54       200.00     161.79    
+4     1.15       162.94     0.00      
+
+
+original value of the loan 600
+yearly interest rate9
+the monthly payment200
+Principal:   $600.00
+Interest rate: 9.00%
+Monthly payment: $200.00
+----------------------------------
+Month Interest   Payment    Balance   
+----------------------------------
+1     4.50       200.00     404.50    
+2     3.03       200.00     207.53    
+3     1.56       200.00     9.09      
+4     0.07       9.16       0.00      
+
+-------------------------------------------------------
+t04
+------------------------------------------------------
+input a number90000
+the number of digits in 90000 is : 5
+
+input a number0
+the number of digits in 0 is : 1
+
+input a number1000000
+the number of digits in 1000000 is : 7
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+ a positive int 9
+4
+
+a positive int999
+521
+-------------------------------------------------------
