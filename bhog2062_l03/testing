@@ -1,0 +1,55 @@
+testing: 
+
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Gurshan Bhogal
+ID:      169052062
+Email:   bhog2062@mylaurier.ca
+Version: 2023-08-29
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+I'm a Little Astronaut' by Jean Warren
+
+I'm a little astronaut
+    Flying to the moon.
+        My rocket is ready,
+        We blast off soon.
+I climb aboard
+    And close the hatch.
+        5-4-3-2-1, off we blast!
+-------------------------------------------------------
+t04: number =500 
+percent=10.5
+-------------------------------------------------------
+ 10.5 discount on 500.0 is 52.5
+------------------------------------------------------
+t07: input the cost of breakfast6.75
+input the cost of lunch19.34
+input the cost of supper112.81
+-------------------------------------------------------
+meal         cost 
+breakfast $   6.75
+lunch     $  19.34
+breakfast $ 112.81
+total     $ 138.90
+-------------------------------------------------------
+t11
+-------------------------------------------------------
+left----------------
+-------middle-------
+---------------right
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+Print 'integer' as an integer: 654321
+Print 'integer' as a floating point : 654321.0
+Print 'integer' as a string: 654321
+Printing 'decimal' as an integer: 654
+Printing 'decimal' as a floating point (real number) value: 654.32
+Printing 'decimal' as a string: 654.32
+Printing 'phrase' as a string: Hello World

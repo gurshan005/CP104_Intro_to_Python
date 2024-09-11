@@ -1,0 +1,104 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  gurshan bhogal
+ID:      169052062
+Email:   bhog2062@mylaurier.ca
+Version: 2023-10-07
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01 A)32000 B)0 C) 100000
+-------------------------------------------------------
+enter the projected total sales32000
+projected tax reoprt 
+--------------------------- 
+total sales:      32000.0
+annual tax rate   18.5 
+---------------------------
+tax:  5920.0 
+
+B) 
+projected tax reoprt 
+--------------------------- 
+total sales:      0.0
+annual tax rate   18.5 
+---------------------------
+tax:  0.0 
+
+C) 
+projected tax reoprt 
+--------------------------- 
+total sales:      100000.0
+annual tax rate   18.5 
+---------------------------
+tax:  18500.0
+
+-------------------------------------------------------
+t02 A)0  B) 49 C)81
+-------------------------------------------------------
+A) the difference of the digits of 0 is 0 
+
+B) the difference of the digits of 49 is -5 
+
+C) the difference of the digits of 81 is 7 
+
+ 
+
+-------------------------------------------------------
+t03 A) 20050826 B) 19890519 C) 19500625
+-------------------------------------------------------
+A) the formatted date is : 2005/08/26
+
+B) the formatted date is : 1989/05/19
+
+C) the formatted date is : 1950/06/25
+
+
+-------------------------------------------------------
+t04 A) 1400,25  B)34,2 C)450,50
+------------------------------------------------------
+A)
+flyers per person : 56
+flyers left over 6
+
+B) 
+flyers per person : 17
+flyers left over 1 
+
+C) 
+flyers per person : 9
+flyers left over 9
+
+
+-------------------------------------------------------
+t05 A) 4,2,0.6,2.5,125,94  B) 1,2,3,4,5,6 C)2,4,6,8,10,12
+-------------------------------------------------------
+foundatoin length 4.0
+width 2.0
+height 0.6
+input the wall height 2.5
+enter the cost of concrete ($/m^3125
+enter the cost of bricks94
+concrete needed  4.8
+cost of concrete  600.0
+bricks needed  30.0
+cost of bricks 2,820.00
+total cost: 3,420.00 
+
+
+B) 
+concrete needed  6.0
+cost of concrete  30.0
+bricks needed  24.0
+cost of bricks 144.00
+total cost: 174.00
+
+C) 
+concrete needed  48.0
+cost of concrete  480.0
+bricks needed  96.0
+cost of bricks 1,152.00
+total cost: 1,632.00
+-------------------------------------------------------
